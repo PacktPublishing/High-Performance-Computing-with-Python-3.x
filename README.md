@@ -28,8 +28,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for developers who want to learn functional programming to handle the new requirements for programming multi-processor and high-availability applications. Basic Python programming knowledge is assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
-●	Python 3.5+ version
-●	Jupyter Notebook
-●	Any web browser for running jupyter notebook
+●	Python 3.5+ version<br/>
+●	Jupyter Notebook<br/>
+●	Any web browser for running jupyter notebook<br/>
 ●	Python packages: Numpy, Scipy, Cython, Numbda, Dask, RxPy, AsyncIO
