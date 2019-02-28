@@ -25,11 +25,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course will help Python Programmers, Data Analysts and aspiring Data Science professionals familiar with basic Python programming to extend their skillset so as to scale their code and improve their code performance.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
-● Python 3.5+ version
-● Jupyter Notebook
-● Any web browser for running jupyter    notebook
-● Python packages: Numpy, Scipy, Cython,   Numbda, Dask, RxPy, AsyncIO
+● Python 3.5+ version<br/>
+● Jupyter Notebook<br/>
+● Any web browser for running jupyter notebook<br/>
+● Python packages: NumPy, SciPy, Cython, Numbda, Dask, RxPy, AsyncIO<br/>
 
 ## Related Products
 * [Functional Programming in 7 Days [Video]](https://www.packtpub.com/application-development/functional-programming-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=9781788990295)
